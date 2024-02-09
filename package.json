@@ -1,0 +1,8 @@
+{
+  "name": "frontend-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DylanTet/frontend-framework.git",
+  "author": "Dylan <tettemerd@gmail.com>",
+  "license": "MIT"
+}
